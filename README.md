@@ -16,4 +16,4 @@ Este é um jogo simples de sobrevivência desenvolvido em **Python** utilizando 
 - `/images`: Contém os sprites do herói e do inimigo.
 - `/sounds`: Contém os efeitos sonoros do jogo.
 
-Para rodar o jogo coloque esse código no terminal: python main.py
+Para rodar o jogo coloque esse código no terminal do Visual Studio Code: python main.py
